@@ -1,0 +1,2232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C5BBA04-C6E6-499C-857F-88CDACE25CFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Umbrella.My.MyApplication</StartupObject>
+    <RootNamespace>Umbrella</RootNamespace>
+    <AssemblyName>Umbrella</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Others\Umbrella Icon.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>8C318E7742217EE7725EEF74D044175F20347C32</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Umbrella_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>D:\JOB\e-Creative\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Umbrella</ProductName>
+    <PublisherName>eCreative</PublisherName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Umbrella.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Umbrella.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Umbrella.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Umbrella.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CloudToolkitN6, Version=0.6.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Elegant.Ui.Common, Version=4.5.0.0, Culture=neutral, PublicKeyToken=e7c2d1dbad6925e1, processorArchitecture=MSIL" />
+    <Reference Include="ESAR Controls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ESAR Controls\ESAR Controls\bin\Debug\ESAR Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Dmf, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Utility, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="NetSpell.SpellChecker, Version=2.1.7.41329, Culture=neutral, PublicKeyToken=318b389f0db66e46" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\cAdjustmentDeductions.vb" />
+    <Compile Include="Classes\cAlumni.vb" />
+    <Compile Include="Classes\cAssignment.vb" />
+    <Compile Include="Classes\cAttendance.vb" />
+    <Compile Include="Classes\cBankDeposit.vb" />
+    <Compile Include="Classes\cBook.vb" />
+    <Compile Include="Classes\cCertificates.vb" />
+    <Compile Include="Classes\cCharges.vb" />
+    <Compile Include="Classes\cClosingMembership.vb" />
+    <Compile Include="Classes\cCourse.vb" />
+    <Compile Include="Classes\cDaHra.vb" />
+    <Compile Include="Classes\cDesignation.vb" />
+    <Compile Include="Classes\cDiscount.vb" />
+    <Compile Include="Classes\cEmployee.vb" />
+    <Compile Include="Classes\cDepartment.vb" />
+    <Compile Include="Classes\cExamFees.vb" />
+    <Compile Include="Classes\cExamination.vb" />
+    <Compile Include="Classes\cFinancialLoan.vb" />
+    <Compile Include="Classes\cGame.vb" />
+    <Compile Include="Classes\cGroup.vb" />
+    <Compile Include="Classes\cHiredEmployee.vb" />
+    <Compile Include="Classes\cImport.vb" />
+    <Compile Include="Classes\cInventory.vb" />
+    <Compile Include="Classes\cInvoice.vb" />
+    <Compile Include="Classes\cIssueBooks.vb" />
+    <Compile Include="Classes\cOnlineExam.vb" />
+    <Compile Include="Classes\cOnlineExamQsn.vb" />
+    <Compile Include="Classes\cPayEmployee.vb" />
+    <Compile Include="Classes\cPFAdvanceWithdrawal.vb" />
+    <Compile Include="Classes\cPFRateIndividual.vb" />
+    <Compile Include="Classes\cProgressReport.vb" />
+    <Compile Include="Classes\cPurchase.vb" />
+    <Compile Include="Classes\cRestore.vb" />
+    <Compile Include="Classes\cRetiredEmployee.vb" />
+    <Compile Include="Classes\cSalary.vb" />
+    <Compile Include="Classes\cMonthlyFees.vb" />
+    <Compile Include="Classes\cIDCard.vb" />
+    <Compile Include="Classes\cIndexx.vb" />
+    <Compile Include="Classes\cInstitute.vb" />
+    <Compile Include="Classes\cLateFees.vb" />
+    <Compile Include="Classes\cLibraryFees.vb" />
+    <Compile Include="Classes\cMarksheet.vb" />
+    <Compile Include="Classes\cNotice.vb" />
+    <Compile Include="Classes\cOtherFees.vb" />
+    <Compile Include="Classes\cPayScale.vb" />
+    <Compile Include="Classes\cPreAdmission.vb" />
+    <Compile Include="Classes\cProfessionalTax.vb" />
+    <Compile Include="Classes\cReturnBooks.vb" />
+    <Compile Include="Classes\cSetupDefaults.vb" />
+    <Compile Include="Classes\cStudentAdmission.vb" />
+    <Compile Include="Classes\cStudentControl.vb" />
+    <Compile Include="Classes\cStudentRegistration.vb" />
+    <Compile Include="Classes\cSubject.vb" />
+    <Compile Include="Classes\cSyllabus.vb" />
+    <Compile Include="Classes\cTextChange.vb" />
+    <Compile Include="Classes\cUser.vb" />
+    <Compile Include="Classes\cWorkingPeriod.vb" />
+    <Compile Include="Classes\cYearlyFees.vb" />
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\Chat\frmClient.Designer.vb">
+      <DependentUpon>frmClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\Chat\frmClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\Chat\frmConnectIP.Designer.vb">
+      <DependentUpon>frmConnectIP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\Chat\frmConnectIP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\Chat\Urdu.vb" />
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmActivityDetails.Designer.vb">
+      <DependentUpon>frmActivityDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmActivityDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmCertificateEmployee.Designer.vb">
+      <DependentUpon>frmCertificateEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmCertificateEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmInventoryCount.Designer.vb">
+      <DependentUpon>frmInventoryCount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmInventoryCount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoice.Designer.vb">
+      <DependentUpon>frmSalesInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoiceNote.Designer.vb">
+      <DependentUpon>frmSalesInvoiceNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoiceNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateEmployee.Designer.vb">
+      <DependentUpon>frmViewEditCertificateEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateStudent.Designer.vb">
+      <DependentUpon>frmViewEditCertificateStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditGames.Designer.vb">
+      <DependentUpon>frmViewEditGames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditGames.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditInventoryItems.Designer.vb">
+      <DependentUpon>frmViewEditInventoryItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditInventoryItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditPurchaseOrder.Designer.vb">
+      <DependentUpon>frmViewEditPurchaseOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditPurchaseOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditSalesInvoice.Designer.vb">
+      <DependentUpon>frmViewEditSalesInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmViewEditSalesInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmAdmissionDetails.Designer.vb">
+      <DependentUpon>frmAdmissionDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmAdmissionDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentInfo.Designer.vb">
+      <DependentUpon>frmStudentInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentAdmission.Designer.vb">
+      <DependentUpon>frmViewEditStudentAdmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentAdmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentPreAdmission.Designer.vb">
+      <DependentUpon>frmViewEditStudentPreAdmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentPreAdmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentRegistration.Designer.vb">
+      <DependentUpon>frmViewEditStudentRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmExaminationDetails.Designer.vb">
+      <DependentUpon>frmExaminationDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmExaminationDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmCourse.Designer.vb">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmCourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamination.Designer.vb">
+      <DependentUpon>frmOnlineExamination.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamination.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamQsn.Designer.vb">
+      <DependentUpon>frmOnlineExamQsn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamQsn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamResult.Designer.vb">
+      <DependentUpon>frmOnlineExamResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditAssignment.Designer.vb">
+      <DependentUpon>frmViewEditAssignment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditAssignment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditExaminations.Designer.vb">
+      <DependentUpon>frmViewEditExaminations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditExaminations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditMarksheets.Designer.vb">
+      <DependentUpon>frmViewEditMarksheets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditMarksheets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamination.Designer.vb">
+      <DependentUpon>frmViewEditOnlineExamination.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamination.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamQsn.Designer.vb">
+      <DependentUpon>frmViewEditOnlineExamQsn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamQsn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditProgressReport.Designer.vb">
+      <DependentUpon>frmViewEditProgressReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditProgressReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSubjects.Designer.vb">
+      <DependentUpon>frmViewEditSubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSyllabus.Designer.vb">
+      <DependentUpon>frmViewEditSyllabus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSyllabus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmCalculator.Designer.vb">
+      <DependentUpon>frmCalculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmCalculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmExamFees.Designer.vb">
+      <DependentUpon>frmExamFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmExamFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmFeesDetails.Designer.vb">
+      <DependentUpon>frmFeesDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmFeesDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmLateFees.Designer.vb">
+      <DependentUpon>frmLateFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmLateFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmMonthlyFees.Designer.vb">
+      <DependentUpon>frmMonthlyFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmMonthlyFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmOtherFees.Designer.vb">
+      <DependentUpon>frmOtherFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmOtherFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditBankDeposit.Designer.vb">
+      <DependentUpon>frmViewEditBankDeposit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditBankDeposit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditDiscount.Designer.vb">
+      <DependentUpon>frmViewEditDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditExamFees.Designer.vb">
+      <DependentUpon>frmViewEditExamFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditExamFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditFinancialLoan.Designer.vb">
+      <DependentUpon>frmViewEditFinancialLoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditFinancialLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditLateFees.Designer.vb">
+      <DependentUpon>frmViewEditLateFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditLateFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditMonthlyFees.Designer.vb">
+      <DependentUpon>frmViewEditMonthlyFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditMonthlyFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditOtherFees.designer.vb">
+      <DependentUpon>frmViewEditOtherFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditOtherFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditYearlyFees.Designer.vb">
+      <DependentUpon>frmViewEditYearlyFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmViewEditYearlyFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmYearlyFees.Designer.vb">
+      <DependentUpon>frmYearlyFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmYearlyFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\Operations.vb" />
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmInstitute.Designer.vb">
+      <DependentUpon>frmInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployee.Designer.vb">
+      <DependentUpon>frmRetiredEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployeeList.Designer.vb">
+      <DependentUpon>frmRetiredEmployeeList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployeeList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmCheckUpdates.Designer.vb">
+      <DependentUpon>frmCheckUpdates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmCheckUpdates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmCustomerSupport.Designer.vb">
+      <DependentUpon>frmCustomerSupport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmCustomerSupport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmGlobalSettings.Designer.vb">
+      <DependentUpon>frmGlobalSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmGlobalSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmIndustrySpecificSolution.Designer.vb">
+      <DependentUpon>frmIndustrySpecificSolution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmIndustrySpecificSolution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmInternetConnection.Designer.vb">
+      <DependentUpon>frmInternetConnection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmInternetConnection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmMidSizedBusiness.Designer.vb">
+      <DependentUpon>frmMidSizedBusiness.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmMidSizedBusiness.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmObsolescenceInformation.Designer.vb">
+      <DependentUpon>frmObsolescenceInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmObsolescenceInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmProductComparison.Designer.vb">
+      <DependentUpon>frmProductComparison.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmProductComparison.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmSynchronize.Designer.vb">
+      <DependentUpon>frmSynchronize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmSynchronize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmFindTransaction.Designer.vb">
+      <DependentUpon>frmFindTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmFindTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmWebTransaction.Designer.vb">
+      <DependentUpon>frmWebTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmWebTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmStudentMainForm.Designer.vb">
+      <DependentUpon>frmStudentMainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmStudentMainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmBackupRestore.Designer.vb">
+      <DependentUpon>frmBackupRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmBackupRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmHiredEmployee.Designer.vb">
+      <DependentUpon>frmHiredEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmHiredEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\CreateInstitution\frmCreateInstitute.Designer.vb">
+      <DependentUpon>frmCreateInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\CreateInstitution\frmCreateInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditHiredEmployee.Designer.vb">
+      <DependentUpon>frmViewEditHiredEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditHiredEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditIDCard.Designer.vb">
+      <DependentUpon>frmViewEditIDCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditIDCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditNotices.Designer.vb">
+      <DependentUpon>frmViewEditNotices.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditNotices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStaffAttendance.Designer.vb">
+      <DependentUpon>frmViewEditStaffAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStaffAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStudentAttendance.Designer.vb">
+      <DependentUpon>frmViewEditStudentAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStudentAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditStudentControl.Designer.vb">
+      <DependentUpon>frmViewEditStudentControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmViewEditStudentControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditBooks.Designer.vb">
+      <DependentUpon>frmViewEditBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditCharges.Designer.vb">
+      <DependentUpon>frmViewEditCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditGroup.Designer.vb">
+      <DependentUpon>frmViewEditGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditSubject.Designer.vb">
+      <DependentUpon>frmViewEditSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmViewEditSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditCalculateCharges.Designer.vb">
+      <DependentUpon>frmViewEditCalculateCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditCalculateCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditIssueBooks.Designer.vb">
+      <DependentUpon>frmViewEditIssueBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditIssueBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditReturnBooks.Designer.vb">
+      <DependentUpon>frmViewEditReturnBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmViewEditReturnBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmAccountingPeriod.Designer.vb">
+      <DependentUpon>frmAccountingPeriod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmAccountingPeriod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmChangeSystemDate.Designer.vb">
+      <DependentUpon>frmChangeSystemDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main Menu\frmChangeSystemDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportLibrary.Designer.vb">
+      <DependentUpon>frmImportExportLibrary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportLibrary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportPayroll.Designer.vb">
+      <DependentUpon>frmImportExportPayroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportPayroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmInstituteStatus.Designer.vb">
+      <DependentUpon>frmInstituteStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmInstituteStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLibraryStatus.Designer.vb">
+      <DependentUpon>frmLibraryStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLibraryStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLoginStudent.Designer.vb">
+      <DependentUpon>frmLoginStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLoginStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmPayrollStatus.Designer.vb">
+      <DependentUpon>frmPayrollStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmPayrollStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsInstitute.Designer.vb">
+      <DependentUpon>frmSetupDefaultsInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsLibrary.Designer.vb">
+      <DependentUpon>frmSetupDefaultsLibrary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsLibrary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsPayroll.Designer.vb">
+      <DependentUpon>frmSetupDefaultsPayroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmSetupDefaultsPayroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmYearEndClosed.Designer.vb">
+      <DependentUpon>frmYearEndClosed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmYearEndClosed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmYearEndWizard.Designer.vb">
+      <DependentUpon>frmYearEndWizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmYearEndWizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\IPLocation\frmCurrentLocation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\IPLocation\IPLocation.vb" />
+    <Compile Include="Forms\OtherForms\IPLocation\NmeaInterpreter.vb" />
+    <Compile Include="Classes\SetupInstaller\UmbrellaInstaller.Designer.vb">
+      <DependentUpon>UmbrellaInstaller.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\SetupInstaller\UmbrellaInstaller.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\SQLBackupRestore\SqlBackupAndRestore.vb" />
+    <Compile Include="Forms\Institution\CreateInstitution\frmInstitutionCreated.Designer.vb">
+      <DependentUpon>frmInstitutionCreated.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\CreateInstitution\frmInstitutionCreated.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\CreateInstitution\frmProcessingInstitute.Designer.vb">
+      <DependentUpon>frmProcessingInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\CreateInstitution\frmProcessingInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmAlumni.Designer.vb">
+      <DependentUpon>frmAlumni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmAlumni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmBirthday.Designer.vb">
+      <DependentUpon>frmBirthday.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmBirthday.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmCertificateStudent.Designer.vb">
+      <DependentUpon>frmCertificateStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmCertificateStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmGames.Designer.vb">
+      <DependentUpon>frmGames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmGames.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmAddInventoryItem.Designer.vb">
+      <DependentUpon>frmAddInventoryItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmAddInventoryItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmInventoryPriceLevel.Designer.vb">
+      <DependentUpon>frmInventoryPriceLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmInventoryPriceLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmItemNote.Designer.vb">
+      <DependentUpon>frmItemNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmItemNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmPurchase.Designer.vb">
+      <DependentUpon>frmPurchase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmPurchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmPurchaseNote.Designer.vb">
+      <DependentUpon>frmPurchaseNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Activity\frmPurchaseNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentAdmission.Designer.vb">
+      <DependentUpon>frmStudentAdmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentAdmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentPreAdmission.Designer.vb">
+      <DependentUpon>frmStudentPreAdmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentPreAdmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentRegistration.Designer.vb">
+      <DependentUpon>frmStudentRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Admission\frmStudentRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmAssignments.Designer.vb">
+      <DependentUpon>frmAssignments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmAssignments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmSubjects.Designer.vb">
+      <DependentUpon>frmSubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmSubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmMarksheets.Designer.vb">
+      <DependentUpon>frmMarksheets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmMarksheets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmExaminations.Designer.vb">
+      <DependentUpon>frmExaminations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmExaminations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmProgressReport.Designer.vb">
+      <DependentUpon>frmProgressReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmProgressReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmSyllabus.Designer.vb">
+      <DependentUpon>frmSyllabus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmSyllabus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmAccountingManagement.Designer.vb">
+      <DependentUpon>frmAccountingManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmAccountingManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmDiscount.Designer.vb">
+      <DependentUpon>frmDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmFinancial.Designer.vb">
+      <DependentUpon>frmFinancial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmFinancial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmIncomeExpenditure.Designer.vb">
+      <DependentUpon>frmIncomeExpenditure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmIncomeExpenditure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmTermOfFees.Designer.vb">
+      <DependentUpon>frmTermOfFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Fees\frmTermOfFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmEnrollEmployee.Designer.vb">
+      <DependentUpon>frmEnrollEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmEnrollEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportInstitute.Designer.vb">
+      <DependentUpon>frmImportExportInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmImportExportInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmInstitutionDetails.Designer.vb">
+      <DependentUpon>frmInstitutionDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmInstitutionDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmNotices.Designer.vb">
+      <DependentUpon>frmNotices.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmNotices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmStaffAttendance.Designer.vb">
+      <DependentUpon>frmStaffAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmStaffAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmStudentAttendance.Designer.vb">
+      <DependentUpon>frmStudentAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmStudentAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmStudentControlPanel.Designer.vb">
+      <DependentUpon>frmStudentControlPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Examination\frmStudentControlPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmSubmitIDCard.Designer.vb">
+      <DependentUpon>frmSubmitIDCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmSubmitIDCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditEmployee.Designer.vb">
+      <DependentUpon>frmViewEditEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Institution\InstitutionTask\Institute\frmViewEditEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmBooks.Designer.vb">
+      <DependentUpon>frmBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmCharges.Designer.vb">
+      <DependentUpon>frmCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmGroup.Designer.vb">
+      <DependentUpon>frmGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmSubject.Designer.vb">
+      <DependentUpon>frmSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\System\frmSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmIssueBooks.Designer.vb">
+      <DependentUpon>frmIssueBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmIssueBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmCalculateCharges.Designer.vb">
+      <DependentUpon>frmCalculateCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmCalculateCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmQueryBooks.Designer.vb">
+      <DependentUpon>frmQueryBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmQueryBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmReturnBooks.Designer.vb">
+      <DependentUpon>frmReturnBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Library\LibraryTasks\Task\frmReturnBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmInstitutionMainForm.Designer.vb">
+      <DependentUpon>frmInstitutionMainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmInstitutionMainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmLibraryMainForm.Designer.vb">
+      <DependentUpon>frmLibraryMainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmLibraryMainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainForm.Designer.vb">
+      <DependentUpon>frmMainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainSelect.Designer.vb">
+      <DependentUpon>frmMainSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainTask.Designer.vb">
+      <DependentUpon>frmMainTask.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmMainTask.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmOpenInstitute.Designer.vb">
+      <DependentUpon>frmOpenInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmOpenInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmPayrollMainForm.Designer.vb">
+      <DependentUpon>frmPayrollMainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm\frmPayrollMainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLockLogin.Designer.vb">
+      <DependentUpon>frmLockLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLockLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLockScreen.Designer.vb">
+      <DependentUpon>frmLockScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmLockScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmESARInfotechLogo.Designer.vb">
+      <DependentUpon>frmESARInfotechLogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmESARInfotechLogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmOpeningInstitute.Designer.vb">
+      <DependentUpon>frmOpeningInstitute.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OtherForms\frmOpeningInstitute.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmADDEmployeeDetailsAdjust_Deduc_for a Month1.Designer.vb">
+      <DependentUpon>frmADDEmployeeDetailsAdjust_Deduc_for a Month1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmADDEmployeeDetailsAdjust_Deduc_for a Month1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationSpecific.Designer.vb">
+      <DependentUpon>frmPayCalculationSpecific.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationSpecific.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationThisMonth.Designer.vb">
+      <DependentUpon>frmPayCalculationThisMonth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationThisMonth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayEmployee.Designer.vb">
+      <DependentUpon>frmPayEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPayEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPFRate.Designer.vb">
+      <DependentUpon>frmPFRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmPFRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditAdjustmentsDeductions.Designer.vb">
+      <DependentUpon>frmViewEditAdjustmentsDeductions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditAdjustmentsDeductions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditPayEmployee.Designer.vb">
+      <DependentUpon>frmViewEditPayEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditPayEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmWorkingHours.Designer.vb">
+      <DependentUpon>frmWorkingHours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\Periodic\frmWorkingHours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAddOpeningOutsourcingBalance.Designer.vb">
+      <DependentUpon>frmPFAddOpeningOutsourcingBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAddOpeningOutsourcingBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAdvanceWithdrawal.Designer.vb">
+      <DependentUpon>frmPFAdvanceWithdrawal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAdvanceWithdrawal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFDefinePartInterest.Designer.vb">
+      <DependentUpon>frmPFDefinePartInterest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFDefinePartInterest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFModifyPFRate.Designer.vb">
+      <DependentUpon>frmPFModifyPFRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFModifyPFRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFOpeningClosingBalanace.Designer.vb">
+      <DependentUpon>frmPFOpeningClosingBalanace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFOpeningClosingBalanace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFSubscriptionAdvanceRecovery.Designer.vb">
+      <DependentUpon>frmPFSubscriptionAdvanceRecovery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFSubscriptionAdvanceRecovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditMembership.Designer.vb">
+      <DependentUpon>frmViewEditMembership.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditMembership.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFAdvanceWithdrawal.Designer.vb">
+      <DependentUpon>frmViewEditPFAdvanceWithdrawal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFAdvanceWithdrawal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFRate.Designer.vb">
+      <DependentUpon>frmViewEditPFRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDA_HRA.Designer.vb">
+      <DependentUpon>frmDA_HRA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDA_HRA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDepartments.Designer.vb">
+      <DependentUpon>frmDepartments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDepartments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDesignation.Designer.vb">
+      <DependentUpon>frmDesignation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmDesignation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmPayScale.Designer.vb">
+      <DependentUpon>frmPayScale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmPayScale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmPayslipHeaders.Designer.vb">
+      <DependentUpon>frmPayslipHeaders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmPayslipHeaders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmProfessionalTax.Designer.vb">
+      <DependentUpon>frmProfessionalTax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmProfessionalTax.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditDepartments.Designer.vb">
+      <DependentUpon>frmViewEditDepartments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditDepartments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditDesignation.Designer.vb">
+      <DependentUpon>frmViewEditDesignation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditDesignation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditPayScale.Designer.vb">
+      <DependentUpon>frmViewEditPayScale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditPayScale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditProfessionalTax.Designer.vb">
+      <DependentUpon>frmViewEditProfessionalTax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Payroll\PayrollTasks\System\frmViewEditProfessionalTax.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reports\frmShowReports.Designer.vb">
+      <DependentUpon>frmShowReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Reports\frmShowReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserRole.Designer.vb">
+      <DependentUpon>frmUserRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmNewAdministrator.Designer.vb">
+      <DependentUpon>frmNewAdministrator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmNewAdministrator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmNewUser.Designer.vb">
+      <DependentUpon>frmNewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserRight.Designer.vb">
+      <DependentUpon>frmUserRight.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserRight.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserControl.Designer.vb">
+      <DependentUpon>frmUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserSecurity.Designer.vb">
+      <DependentUpon>frmUserSecurity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserSecurity\frmUserSecurity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\mGlobalConnection.vb" />
+    <Compile Include="Modules\mGlobalSettings.vb" />
+    <Compile Include="Modules\mGlobalVariables.vb" />
+    <Compile Include="Modules\mInstitutionDefaults.vb" />
+    <Compile Include="Modules\mLibraryDefaults.vb" />
+    <Compile Include="Modules\mPayrollDefaults.vb" />
+    <Compile Include="Modules\mUser.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Others\ValueUpdatedEventArgs.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\OtherForms\IPLocation\frmCurrentLocation.resx">
+      <DependentUpon>frmCurrentLocation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\CreateInstitution\frmInstitutionCreated.resx">
+      <DependentUpon>frmInstitutionCreated.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\CreateInstitution\frmProcessingInstitute.resx">
+      <DependentUpon>frmProcessingInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmAlumni.resx">
+      <DependentUpon>frmAlumni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmBirthday.resx">
+      <DependentUpon>frmBirthday.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmCertificateStudent.resx">
+      <DependentUpon>frmCertificateStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmGames.resx">
+      <DependentUpon>frmGames.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmAddInventoryItem.resx">
+      <DependentUpon>frmAddInventoryItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmInventoryPriceLevel.resx">
+      <DependentUpon>frmInventoryPriceLevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmItemNote.resx">
+      <DependentUpon>frmItemNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmPurchase.resx">
+      <DependentUpon>frmPurchase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmPurchaseNote.resx">
+      <DependentUpon>frmPurchaseNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmStudentAdmission.resx">
+      <DependentUpon>frmStudentAdmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmStudentPreAdmission.resx">
+      <DependentUpon>frmStudentPreAdmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmStudentRegistration.resx">
+      <DependentUpon>frmStudentRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmAssignments.resx">
+      <DependentUpon>frmAssignments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmSubjects.resx">
+      <DependentUpon>frmSubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmExaminations.resx">
+      <DependentUpon>frmExaminations.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmProgressReport.resx">
+      <DependentUpon>frmProgressReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmSyllabus.resx">
+      <DependentUpon>frmSyllabus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmAccountingManagement.resx">
+      <DependentUpon>frmAccountingManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmDiscount.resx">
+      <DependentUpon>frmDiscount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmFinancial.resx">
+      <DependentUpon>frmFinancial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmIncomeExpenditure.resx">
+      <DependentUpon>frmIncomeExpenditure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmTermOfFees.resx">
+      <DependentUpon>frmTermOfFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmEnrollEmployee.resx">
+      <DependentUpon>frmEnrollEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmInstitutionDetails.resx">
+      <DependentUpon>frmInstitutionDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmNotices.resx">
+      <DependentUpon>frmNotices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmStaffAttendance.resx">
+      <DependentUpon>frmStaffAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmStudentAttendance.resx">
+      <DependentUpon>frmStudentAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmStudentControlPanel.resx">
+      <DependentUpon>frmStudentControlPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmSubmitIDCard.resx">
+      <DependentUpon>frmSubmitIDCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmBooks.resx">
+      <DependentUpon>frmBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmCharges.resx">
+      <DependentUpon>frmCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmGroup.resx">
+      <DependentUpon>frmGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmSubject.resx">
+      <DependentUpon>frmSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmIssueBooks.resx">
+      <DependentUpon>frmIssueBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmCalculateCharges.resx">
+      <DependentUpon>frmCalculateCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmQueryBooks.resx">
+      <DependentUpon>frmQueryBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmReturnBooks.resx">
+      <DependentUpon>frmReturnBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmInstitutionMainForm.resx">
+      <DependentUpon>frmInstitutionMainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmLibraryMainForm.resx">
+      <DependentUpon>frmLibraryMainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmMainForm.resx">
+      <DependentUpon>frmMainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmMainSelect.resx">
+      <DependentUpon>frmMainSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmMainTask.resx">
+      <DependentUpon>frmMainTask.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmOpenInstitute.resx">
+      <DependentUpon>frmOpenInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmPayrollMainForm.resx">
+      <DependentUpon>frmPayrollMainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmOpeningInstitute.resx">
+      <DependentUpon>frmOpeningInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmADDEmployeeDetailsAdjust_Deduc_for a Month1.resx">
+      <DependentUpon>frmADDEmployeeDetailsAdjust_Deduc_for a Month1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationThisMonth.resx">
+      <DependentUpon>frmPayCalculationThisMonth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmPFRate.resx">
+      <DependentUpon>frmPFRate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAddOpeningOutsourcingBalance.resx">
+      <DependentUpon>frmPFAddOpeningOutsourcingBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFAdvanceWithdrawal.resx">
+      <DependentUpon>frmPFAdvanceWithdrawal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFDefinePartInterest.resx">
+      <DependentUpon>frmPFDefinePartInterest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFModifyPFRate.resx">
+      <DependentUpon>frmPFModifyPFRate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFOpeningClosingBalanace.resx">
+      <DependentUpon>frmPFOpeningClosingBalanace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmPFSubscriptionAdvanceRecovery.resx">
+      <DependentUpon>frmPFSubscriptionAdvanceRecovery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmDA_HRA.resx">
+      <DependentUpon>frmDA_HRA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmDepartments.resx">
+      <DependentUpon>frmDepartments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmDesignation.resx">
+      <DependentUpon>frmDesignation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmPayScale.resx">
+      <DependentUpon>frmPayScale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmPayslipHeaders.resx">
+      <DependentUpon>frmPayslipHeaders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmProfessionalTax.resx">
+      <DependentUpon>frmProfessionalTax.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Others\app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <EmbeddedResource Include="Others\en-US.dic" />
+    <None Include="Umbrella_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\buddy.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\calculator_blue.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\eject.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\disc_cancel.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\notepad.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\paint.png" />
+    <None Include="Forms\Institution\InstitutionTask\Activity\Chat\Resources\voice_chat.png" />
+    <Content Include="Images\16x16 PNG\accounting-management-icon.png" />
+    <Content Include="Images\16x16 PNG\achievement.png" />
+    <None Include="app.config" />
+    <None Include="Images\16x16 PNG\actions.png" />
+    <Content Include="Images\16x16 PNG\activity_icon.png" />
+    <Content Include="Images\16x16 PNG\add.png" />
+    <Content Include="Images\16x16 PNG\adjustment-deduction-icon.png" />
+    <Content Include="Images\16x16 PNG\administrator-icon.png" />
+    <Content Include="Images\16x16 PNG\admission-icon.png" />
+    <Content Include="Images\16x16 PNG\alumni-icon.png" />
+    <None Include="Images\16x16 PNG\amex.png" />
+    <Content Include="Images\16x16 PNG\assignment.png" />
+    <Content Include="Images\16x16 PNG\attachment.png" />
+    <Content Include="Images\16x16 PNG\attendance-icon.png" />
+    <None Include="Images\16x16 PNG\authentication.png" />
+    <Content Include="Images\16x16 PNG\back.png" />
+    <Content Include="Images\16x16 PNG\backup-restore-icon.png" />
+    <Content Include="Images\16x16 PNG\backup.png" />
+    <None Include="Images\16x16 PNG\bank_deposit.png" />
+    <Content Include="Images\16x16 PNG\birthday-icon.png" />
+    <Content Include="Images\16x16 PNG\bold16.png" />
+    <Content Include="Images\16x16 PNG\book_add.png" />
+    <Content Include="Images\16x16 PNG\bullets.gif" />
+    <Content Include="Images\16x16 PNG\calculator.png" />
+    <None Include="Images\16x16 PNG\cash.png" />
+    <Content Include="Images\16x16 PNG\certificate.png" />
+    <Content Include="Images\16x16 PNG\charges-icon.png" />
+    <Content Include="Images\16x16 PNG\chart.png" />
+    <Content Include="Images\16x16 PNG\chat.png" />
+    <None Include="Images\16x16 PNG\check.png" />
+    <Content Include="Images\16x16 PNG\clear.png" />
+    <Content Include="Images\16x16 PNG\close.png" />
+    <Content Include="Images\16x16 PNG\collapseIcon.png" />
+    <None Include="Images\16x16 PNG\comparisons.png" />
+    <Content Include="Images\16x16 PNG\compose mail.png" />
+    <None Include="Images\16x16 PNG\data.png" />
+    <None Include="Images\16x16 PNG\customer support.png" />
+    <Content Include="Images\16x16 PNG\default-setup.png" />
+    <Content Include="Images\16x16 PNG\contacts_us.png" />
+    <Content Include="Images\16x16 PNG\control-panel-icon.png" />
+    <Content Include="Images\16x16 PNG\copy16.png" />
+    <Content Include="Images\16x16 PNG\course_icon.png" />
+    <Content Include="Images\16x16 PNG\cut16.png" />
+    <None Include="Images\16x16 PNG\database.png" />
+    <Content Include="Images\16x16 PNG\Date.png" />
+    <Content Include="Images\16x16 PNG\DA_HRA Icon.png" />
+    <Content Include="Images\16x16 PNG\Delete.png" />
+    <Content Include="Images\16x16 PNG\Department-Icon.png" />
+    <Content Include="Images\16x16 PNG\Designation_Icon.png" />
+    <Content Include="Images\16x16 PNG\directory-create-icon.png" />
+    <Content Include="Images\16x16 PNG\disabled back.png" />
+    <Content Include="Images\16x16 PNG\discount_offer.png" />
+    <None Include="Images\16x16 PNG\discover.png" />
+    <Content Include="Images\16x16 PNG\draft-icon.png" />
+    <Content Include="Images\16x16 PNG\edit-icon.png" />
+    <Content Include="Images\16x16 PNG\email-icon.png" />
+    <None Include="Images\16x16 PNG\examination-fees-icon.png" />
+    <Content Include="Images\16x16 PNG\examination-icon.png" />
+    <None Include="Images\16x16 PNG\excel.png" />
+    <None Include="Images\16x16 PNG\Exit.png" />
+    <Content Include="Images\16x16 PNG\expandIcon.png" />
+    <Content Include="Images\16x16 PNG\export-icon.png" />
+    <Content Include="Images\16x16 PNG\facility.png" />
+    <Content Include="Images\16x16 PNG\feedback.png" />
+    <Content Include="Images\16x16 PNG\fees-icon.png" />
+    <Content Include="Images\16x16 PNG\color.png" />
+    <Content Include="Images\16x16 PNG\financial-loan-icon.png" />
+    <None Include="Images\16x16 PNG\financial.png" />
+    <Content Include="Images\16x16 PNG\find.png" />
+    <Content Include="Images\16x16 PNG\font.png" />
+    <Content Include="Images\16x16 PNG\forum-icon.png" />
+    <Content Include="Images\16x16 PNG\games-icon.png" />
+    <Content Include="Images\16x16 PNG\global_local.png" />
+    <None Include="Images\16x16 PNG\indian rupee.png" />
+    <None Include="Images\16x16 PNG\internet connection.png" />
+    <Content Include="Images\16x16 PNG\inventory-count.png" />
+    <None Include="Images\16x16 PNG\mastercard.png" />
+    <Content Include="Images\16x16 PNG\move-mail.png" />
+    <Content Include="Images\16x16 PNG\group.png" />
+    <Content Include="Images\16x16 PNG\header.png" />
+    <Content Include="Images\16x16 PNG\about-help.png" />
+    <Content Include="Images\16x16 PNG\help.png" />
+    <Content Include="Images\16x16 PNG\home.png" />
+    <Content Include="Images\16x16 PNG\ID-icon.png" />
+    <Content Include="Images\16x16 PNG\import-export-icon.png" />
+    <Content Include="Images\16x16 PNG\import-icon.png" />
+    <Content Include="Images\16x16 PNG\inbox icon.png" />
+    <Content Include="Images\16x16 PNG\income-expenditure-icon.png" />
+    <Content Include="Images\16x16 PNG\incoming.png" />
+    <Content Include="Images\16x16 PNG\Internet-Explorer-icon.png" />
+    <Content Include="Images\16x16 PNG\inventory-icon.png" />
+    <Content Include="Images\16x16 PNG\issue_book.png" />
+    <None Include="Images\16x16 PNG\master-record-icon.png" />
+    <Content Include="Images\16x16 PNG\italic16.png" />
+    <None Include="Images\16x16 PNG\my account.png" />
+    <None Include="Images\16x16 PNG\Obsolescence Information.png" />
+    <Content Include="Images\16x16 PNG\open dot.png" />
+    <Content Include="Images\16x16 PNG\paste.png" />
+    <Content Include="Images\16x16 PNG\Picture.png" />
+    <None Include="Images\16x16 PNG\pie-chart-icon.png" />
+    <None Include="Images\16x16 PNG\Product.png" />
+    <Content Include="Images\16x16 PNG\purchase-orders.png" />
+    <Content Include="Images\16x16 PNG\receive-inventory.png" />
+    <Content Include="Images\16x16 PNG\redo_icon.gif" />
+    <None Include="Images\16x16 PNG\server_database.png" />
+    <None Include="Images\16x16 PNG\Sales Invoice.png" />
+    <None Include="Images\16x16 PNG\revenue.png" />
+    <Content Include="Images\16x16 PNG\select.png" />
+    <None Include="Images\16x16 PNG\Setup Guide.png" />
+    <None Include="Images\16x16 PNG\Solutions-Icon.png" />
+    <Content Include="Images\16x16 PNG\staff.png" />
+    <Content Include="Images\16x16 PNG\important.png" />
+    <Content Include="Images\16x16 PNG\Student Attendance.png" />
+    <None Include="Images\16x16 PNG\student-attendance.png" />
+    <None Include="Images\16x16 PNG\synchronize.png" />
+    <Content Include="Images\16x16 PNG\textaligncenter16.png" />
+    <Content Include="Images\16x16 PNG\textalignjustify16.png" />
+    <Content Include="Images\16x16 PNG\textalignleft16.png" />
+    <Content Include="Images\16x16 PNG\textalignright16.png" />
+    <Content Include="Images\16x16 PNG\Umbrella-icon.png" />
+    <Content Include="Images\16x16 PNG\Late Fees.png" />
+    <Content Include="Images\16x16 PNG\library-icon.png" />
+    <Content Include="Images\16x16 PNG\list.png" />
+    <Content Include="Images\16x16 PNG\lock_system_screen.png" />
+    <Content Include="Images\16x16 PNG\logout.png" />
+    <Content Include="Images\16x16 PNG\mail-icon.png" />
+    <Content Include="Images\16x16 PNG\marksheets.png" />
+    <Content Include="Images\16x16 PNG\monthly.png" />
+    <Content Include="Images\16x16 PNG\new.png" />
+    <Content Include="Images\16x16 PNG\next.png" />
+    <Content Include="Images\16x16 PNG\note.png" />
+    <Content Include="Images\16x16 PNG\notice-icon.png" />
+    <Content Include="Images\16x16 PNG\ok.png" />
+    <Content Include="Images\16x16 PNG\online exam.png" />
+    <Content Include="Images\16x16 PNG\online-backup.png" />
+    <Content Include="Images\16x16 PNG\online-icon.png" />
+    <Content Include="Images\16x16 PNG\online_solution.png" />
+    <Content Include="Images\16x16 PNG\open.png" />
+    <Content Include="Images\16x16 PNG\other-fees-icon.png" />
+    <Content Include="Images\16x16 PNG\outgoing.png" />
+    <Content Include="Images\16x16 PNG\owe-money.png" />
+    <Content Include="Images\16x16 PNG\pay-calculation-icon.png" />
+    <Content Include="Images\16x16 PNG\pay-money.png" />
+    <Content Include="Images\16x16 PNG\payroll-icon.png" />
+    <Content Include="Images\16x16 PNG\payscale icon.png" />
+    <Content Include="Images\16x16 PNG\period.png" />
+    <Content Include="Images\16x16 PNG\Periodic.png" />
+    <Content Include="Images\16x16 PNG\PF Icon.png" />
+    <Content Include="Images\16x16 PNG\printicon.png" />
+    <Content Include="Images\16x16 PNG\products.png" />
+    <Content Include="Images\16x16 PNG\progress_bar.png" />
+    <Content Include="Images\16x16 PNG\query_book.png" />
+    <Content Include="Images\16x16 PNG\read.png" />
+    <Content Include="Images\16x16 PNG\recent-icon.png" />
+    <Content Include="Images\16x16 PNG\recycle.png" />
+    <Content Include="Images\16x16 PNG\refresh_icon.png" />
+    <Content Include="Images\16x16 PNG\reminder-icon.png" />
+    <Content Include="Images\16x16 PNG\remove-search-text.png" />
+    <Content Include="Images\16x16 PNG\reports-icon.png" />
+    <Content Include="Images\16x16 PNG\restarrow.gif" />
+    <Content Include="Images\16x16 PNG\restore.png" />
+    <Content Include="Images\16x16 PNG\return_book.png" />
+    <Content Include="Images\16x16 PNG\run-icon.png" />
+    <Content Include="Images\16x16 PNG\save.png" />
+    <Content Include="Images\16x16 PNG\SaveNew.png" />
+    <Content Include="Images\16x16 PNG\selarrow.gif" />
+    <Content Include="Images\16x16 PNG\sent mail.png" />
+    <Content Include="Images\16x16 PNG\settings-icon.png" />
+    <Content Include="Images\16x16 PNG\shield.gif" />
+    <Content Include="Images\16x16 PNG\staff-attendance.png" />
+    <Content Include="Images\16x16 PNG\star-icon.png" />
+    <Content Include="Images\16x16 PNG\student-registration.png" />
+    <Content Include="Images\16x16 PNG\student_assistant.png" />
+    <Content Include="Images\16x16 PNG\subject.png" />
+    <Content Include="Images\16x16 PNG\syllabus.png" />
+    <Content Include="Images\16x16 PNG\table.png" />
+    <Content Include="Images\16x16 PNG\task-icon.png" />
+    <Content Include="Images\16x16 PNG\tax-icon.png" />
+    <Content Include="Images\16x16 PNG\Teachers-icon.png" />
+    <Content Include="Images\16x16 PNG\terms of fees.png" />
+    <Content Include="Images\16x16 PNG\todo-icon.png" />
+    <Content Include="Images\16x16 PNG\underline16.png" />
+    <Content Include="Images\16x16 PNG\undo_icon.gif" />
+    <Content Include="Images\16x16 PNG\unread.png" />
+    <Content Include="Images\16x16 PNG\Unser Secuirity Menu.png" />
+    <None Include="Images\16x16 PNG\User Secuirity Menu.png" />
+    <None Include="Images\16x16 PNG\upload.png" />
+    <None Include="Images\16x16 PNG\update.png" />
+    <Content Include="Images\16x16 PNG\user-add-icon.png" />
+    <Content Include="Images\16x16 PNG\user-role-icon.png" />
+    <Content Include="Images\16x16 PNG\employee.png" />
+    <None Include="Images\16x16 PNG\visa.png" />
+    <None Include="Images\16x16 PNG\web transaction.png" />
+    <Content Include="Images\16x16 PNG\Website-icon.png" />
+    <None Include="Images\16x16 PNG\working hours.png" />
+    <None Include="Images\16x16 PNG\Year-End.png" />
+    <Content Include="Images\16x16 PNG\yearly.png" />
+    <None Include="Images\48x48 PNG\lock_closed.png" />
+    <None Include="Images\48x48 PNG\repair_database-512.png" />
+    <None Include="Images\48x48 PNG\report.png" />
+    <None Include="Images\48x48 PNG\system_config_boot.png" />
+    <None Include="Images\48x48 PNG\status.png" />
+    <Content Include="Images\Animated GIF\animated_progress_bar.gif" />
+    <Content Include="Images\Animated GIF\animated_progress_circle.gif" />
+    <Content Include="Images\Animated GIF\CircularProgressAnimation.gif" />
+    <Content Include="Images\Animated GIF\loader.gif" />
+    <Content Include="Images\Animated GIF\loading %282%29.gif" />
+    <Content Include="Images\Animated GIF\loading.gif" />
+    <Content Include="Images\Animated GIF\LoadingCircle.gif" />
+    <Content Include="Images\Animated GIF\LoadingCircle_firstani.gif" />
+    <Content Include="Images\Animated GIF\post-2-1283575897.gif" />
+    <Content Include="Images\Animated GIF\Triangles indicator.gif" />
+    <Content Include="Images\Icon\Umbrella Icon.ico" />
+    <None Include="Images\Other Size PNG\eCreative Logo.png" />
+    <None Include="Images\Icon\Umbrella-icon.ico" />
+    <Content Include="Images\Other Size PNG\Backup Online.png" />
+    <Content Include="Images\Other Size PNG\Backup Online32.png" />
+    <Content Include="Images\Other Size PNG\Backup.png" />
+    <Content Include="Images\Other Size PNG\Backup32.png" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-001.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-002.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-003.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-004.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-005.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-006.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-007.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-008.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-009.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-010.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-011.jpg" />
+    <Content Include="Images\Other Size PNG\EducationLoan\download_educationloan_appln-page-012.jpg" />
+    <None Include="Images\Other Size PNG\file_pdf.png" />
+    <Content Include="Images\Other Size PNG\favicon.ico" />
+    <Content Include="Images\Other Size PNG\Login.png" />
+    <None Include="Images\Other Size PNG\process current.png" />
+    <None Include="Images\Other Size PNG\process done.png" />
+    <None Include="Images\Other Size PNG\people.png" />
+    <Content Include="Images\Other Size PNG\mail-attach.png" />
+    <None Include="Images\Other Size PNG\start.png" />
+    <Content Include="Images\Other Size PNG\Restore Online.png" />
+    <Content Include="Images\Other Size PNG\Restore Online32.png" />
+    <Content Include="Images\Other Size PNG\Restore.png" />
+    <Content Include="Images\Other Size PNG\Restore32.png" />
+    <Content Include="Images\Other Size PNG\ESAR Infotech Logo.png" />
+    <Content Include="Images\Other Size PNG\Umbrella-icon-128x128.png" />
+    <Content Include="Images\Other Size PNG\Umbrella-icon-48x48.png" />
+    <Content Include="Images\Other Size PNG\Submit ID Card Logo.png" />
+    <Content Include="Images\Other Size PNG\x32.png" />
+    <Content Include="Images\Shapes\1 Polygon.png" />
+    <Content Include="Images\Shapes\10 Octagon.png" />
+    <Content Include="Images\Shapes\11 Nonagon.png" />
+    <Content Include="Images\Shapes\12 Decagon.png" />
+    <Content Include="Images\Shapes\13 Cube.png" />
+    <Content Include="Images\Shapes\14 Cuboid.png" />
+    <Content Include="Images\Shapes\15 Sphere.png" />
+    <Content Include="Images\Shapes\16 Cylinder.png" />
+    <Content Include="Images\Shapes\17 Cone.png" />
+    <Content Include="Images\Shapes\18 Triangular Prism.png" />
+    <Content Include="Images\Shapes\19 Hexagonal Prism.png" />
+    <Content Include="Images\Shapes\2 Quadrilaterals.png" />
+    <Content Include="Images\Shapes\20 Triangular-based Pyramid.png" />
+    <Content Include="Images\Shapes\21 Square-based Pyramid.png" />
+    <Content Include="Images\Shapes\22 Hexagonal Pyramid.PNG" />
+    <Content Include="Images\Shapes\23 Trapezium.png" />
+    <Content Include="Images\Shapes\24 Kite.png" />
+    <Content Include="Images\Shapes\25 Trapezoid.png" />
+    <Content Include="Images\Shapes\26 Parallelogram.png" />
+    <Content Include="Images\Shapes\27 Rhombus.png" />
+    <Content Include="Images\Shapes\3 Square.png" />
+    <Content Include="Images\Shapes\4 Triangle.png" />
+    <Content Include="Images\Shapes\5 Rectangle.png" />
+    <Content Include="Images\Shapes\6 Parallelogram.png" />
+    <Content Include="Images\Shapes\7 Pentagon.png" />
+    <Content Include="Images\Shapes\8 Hexagon.png" />
+    <Content Include="Images\Shapes\9 Heptagon.png" />
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\17849-pattern.jpg" />
+    <None Include="Resources\A.jpg" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\ALetter.jpg" />
+    <None Include="Resources\ColorTheoryMixture.jpg" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Designer.png" />
+    <None Include="Resources\Grid.png" />
+    <None Include="Resources\Objects.png" />
+    <None Include="Resources\Pencil.png" />
+    <None Include="Resources\plain-natural-fiber-wallpaper-110629-maya-romanoff1.jpg" />
+    <None Include="Resources\plain-wallpaper-138030.jpg" />
+    <None Include="Resources\videos_4_background.jpg" />
+    <None Include="Resources\wood-floor-wallpaper.png" />
+    <None Include="Resources\Work area.png" />
+    <None Include="Resources\Yes.png" />
+    <None Include="Resources\YUV color space.png" />
+    <None Include="Resources\user secuirity.png" />
+    <None Include="Resources\login-icon.png" />
+    <None Include="Resources\eye.png" />
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\Chat\frmClient.resx">
+      <DependentUpon>frmClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\Chat\frmConnectIP.resx">
+      <DependentUpon>frmConnectIP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmActivityDetails.resx">
+      <DependentUpon>frmActivityDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmCertificateEmployee.resx">
+      <DependentUpon>frmCertificateEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmInventoryCount.resx">
+      <DependentUpon>frmInventoryCount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoice.resx">
+      <DependentUpon>frmSalesInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmSalesInvoiceNote.resx">
+      <DependentUpon>frmSalesInvoiceNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateEmployee.resx">
+      <DependentUpon>frmViewEditCertificateEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditCertificateStudent.resx">
+      <DependentUpon>frmViewEditCertificateStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditGames.resx">
+      <DependentUpon>frmViewEditGames.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditInventoryItems.resx">
+      <DependentUpon>frmViewEditInventoryItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditPurchaseOrder.resx">
+      <DependentUpon>frmViewEditPurchaseOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Activity\frmViewEditSalesInvoice.resx">
+      <DependentUpon>frmViewEditSalesInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmAdmissionDetails.resx">
+      <DependentUpon>frmAdmissionDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmStudentInfo.resx">
+      <DependentUpon>frmStudentInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentAdmission.resx">
+      <DependentUpon>frmViewEditStudentAdmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentPreAdmission.resx">
+      <DependentUpon>frmViewEditStudentPreAdmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Admission\frmViewEditStudentRegistration.resx">
+      <DependentUpon>frmViewEditStudentRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmCourse.resx">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmExaminationDetails.resx">
+      <DependentUpon>frmExaminationDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmMarksheets.resx">
+      <DependentUpon>frmMarksheets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamination.resx">
+      <DependentUpon>frmOnlineExamination.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamQsn.resx">
+      <DependentUpon>frmOnlineExamQsn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmOnlineExamResult.resx">
+      <DependentUpon>frmOnlineExamResult.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditAssignment.resx">
+      <DependentUpon>frmViewEditAssignment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditExaminations.resx">
+      <DependentUpon>frmViewEditExaminations.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditMarksheets.resx">
+      <DependentUpon>frmViewEditMarksheets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamination.resx">
+      <DependentUpon>frmViewEditOnlineExamination.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditOnlineExamQsn.resx">
+      <DependentUpon>frmViewEditOnlineExamQsn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditProgressReport.resx">
+      <DependentUpon>frmViewEditProgressReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSubjects.resx">
+      <DependentUpon>frmViewEditSubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditSyllabus.resx">
+      <DependentUpon>frmViewEditSyllabus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmCalculator.resx">
+      <DependentUpon>frmCalculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmExamFees.resx">
+      <DependentUpon>frmExamFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmFeesDetails.resx">
+      <DependentUpon>frmFeesDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmLateFees.resx">
+      <DependentUpon>frmLateFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmMonthlyFees.resx">
+      <DependentUpon>frmMonthlyFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmOtherFees.resx">
+      <DependentUpon>frmOtherFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditBankDeposit.resx">
+      <DependentUpon>frmViewEditBankDeposit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditDiscount.resx">
+      <DependentUpon>frmViewEditDiscount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditExamFees.resx">
+      <DependentUpon>frmViewEditExamFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditFinancialLoan.resx">
+      <DependentUpon>frmViewEditFinancialLoan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditLateFees.resx">
+      <DependentUpon>frmViewEditLateFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditMonthlyFees.resx">
+      <DependentUpon>frmViewEditMonthlyFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditOtherFees.resx">
+      <DependentUpon>frmViewEditOtherFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmViewEditYearlyFees.resx">
+      <DependentUpon>frmViewEditYearlyFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Fees\frmYearlyFees.resx">
+      <DependentUpon>frmYearlyFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmInstitute.resx">
+      <DependentUpon>frmInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployee.resx">
+      <DependentUpon>frmRetiredEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmRetiredEmployeeList.resx">
+      <DependentUpon>frmRetiredEmployeeList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmCheckUpdates.resx">
+      <DependentUpon>frmCheckUpdates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmCustomerSupport.resx">
+      <DependentUpon>frmCustomerSupport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmGlobalSettings.resx">
+      <DependentUpon>frmGlobalSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmIndustrySpecificSolution.resx">
+      <DependentUpon>frmIndustrySpecificSolution.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmInternetConnection.resx">
+      <DependentUpon>frmInternetConnection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmMidSizedBusiness.resx">
+      <DependentUpon>frmMidSizedBusiness.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmObsolescenceInformation.resx">
+      <DependentUpon>frmObsolescenceInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmProductComparison.resx">
+      <DependentUpon>frmProductComparison.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmSynchronize.resx">
+      <DependentUpon>frmSynchronize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmFindTransaction.resx">
+      <DependentUpon>frmFindTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmWebTransaction.resx">
+      <DependentUpon>frmWebTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm\frmStudentMainForm.resx">
+      <DependentUpon>frmStudentMainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmBackupRestore.resx">
+      <DependentUpon>frmBackupRestore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmHiredEmployee.resx">
+      <DependentUpon>frmHiredEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmImportExportInstitute.resx">
+      <DependentUpon>frmImportExportInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\CreateInstitution\frmCreateInstitute.resx">
+      <DependentUpon>frmCreateInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditEmployee.resx">
+      <DependentUpon>frmViewEditEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditHiredEmployee.resx">
+      <DependentUpon>frmViewEditHiredEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditIDCard.resx">
+      <DependentUpon>frmViewEditIDCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditNotices.resx">
+      <DependentUpon>frmViewEditNotices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStaffAttendance.resx">
+      <DependentUpon>frmViewEditStaffAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Institute\frmViewEditStudentAttendance.resx">
+      <DependentUpon>frmViewEditStudentAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Institution\InstitutionTask\Examination\frmViewEditStudentControl.resx">
+      <DependentUpon>frmViewEditStudentControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmViewEditBooks.resx">
+      <DependentUpon>frmViewEditBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmViewEditCharges.resx">
+      <DependentUpon>frmViewEditCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmViewEditGroup.resx">
+      <DependentUpon>frmViewEditGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\System\frmViewEditSubject.resx">
+      <DependentUpon>frmViewEditSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmViewEditCalculateCharges.resx">
+      <DependentUpon>frmViewEditCalculateCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmViewEditIssueBooks.resx">
+      <DependentUpon>frmViewEditIssueBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Library\LibraryTasks\Task\frmViewEditReturnBooks.resx">
+      <DependentUpon>frmViewEditReturnBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmAccountingPeriod.resx">
+      <DependentUpon>frmAccountingPeriod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main Menu\frmChangeSystemDate.resx">
+      <DependentUpon>frmChangeSystemDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmImportExportLibrary.resx">
+      <DependentUpon>frmImportExportLibrary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmImportExportPayroll.resx">
+      <DependentUpon>frmImportExportPayroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmInstituteStatus.resx">
+      <DependentUpon>frmInstituteStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmLibraryStatus.resx">
+      <DependentUpon>frmLibraryStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmLockLogin.resx">
+      <DependentUpon>frmLockLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmLockScreen.resx">
+      <DependentUpon>frmLockScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmESARInfotechLogo.resx">
+      <DependentUpon>frmESARInfotechLogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmLoginStudent.resx">
+      <DependentUpon>frmLoginStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmPayrollStatus.resx">
+      <DependentUpon>frmPayrollStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmSetupDefaultsInstitute.resx">
+      <DependentUpon>frmSetupDefaultsInstitute.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmSetupDefaultsLibrary.resx">
+      <DependentUpon>frmSetupDefaultsLibrary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmSetupDefaultsPayroll.resx">
+      <DependentUpon>frmSetupDefaultsPayroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmYearEndClosed.resx">
+      <DependentUpon>frmYearEndClosed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OtherForms\frmYearEndWizard.resx">
+      <DependentUpon>frmYearEndWizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmPayCalculationSpecific.resx">
+      <DependentUpon>frmPayCalculationSpecific.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmPayEmployee.resx">
+      <DependentUpon>frmPayEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditAdjustmentsDeductions.resx">
+      <DependentUpon>frmViewEditAdjustmentsDeductions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmViewEditPayEmployee.resx">
+      <DependentUpon>frmViewEditPayEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\Periodic\frmWorkingHours.resx">
+      <DependentUpon>frmWorkingHours.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditMembership.resx">
+      <DependentUpon>frmViewEditMembership.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFAdvanceWithdrawal.resx">
+      <DependentUpon>frmViewEditPFAdvanceWithdrawal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\ProvidentFund\frmViewEditPFRate.resx">
+      <DependentUpon>frmViewEditPFRate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmViewEditDepartments.resx">
+      <DependentUpon>frmViewEditDepartments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmViewEditDesignation.resx">
+      <DependentUpon>frmViewEditDesignation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmViewEditPayScale.resx">
+      <DependentUpon>frmViewEditPayScale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Payroll\PayrollTasks\System\frmViewEditProfessionalTax.resx">
+      <DependentUpon>frmViewEditProfessionalTax.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmUserRole.resx">
+      <DependentUpon>frmUserRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmNewAdministrator.resx">
+      <DependentUpon>frmNewAdministrator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmNewUser.resx">
+      <DependentUpon>frmNewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmUserControl.resx">
+      <DependentUpon>frmUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmUserRight.resx">
+      <DependentUpon>frmUserRight.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserSecurity\frmUserSecurity.resx">
+      <DependentUpon>frmUserSecurity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Others\Umbrella Icon.ico" />
+    <EmbeddedResource Include="Others\notify.wav" />
+    <EmbeddedResource Include="Others\Tables.txt" />
+    <EmbeddedResource Include="Others\ZOOM9G.CUR" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

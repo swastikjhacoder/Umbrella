@@ -1,0 +1,586 @@
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\e-Creative\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\e-Creative\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.Buttons.CButton.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.GroupBox.CollapseButton.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.dlgCorners.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.DropdownColorBlender.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.ComboBox.ComboIcon.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.GroupBox.CollapseBox.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.GroupBox.CollapseGroupBox.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.GroupBox.Grouper.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.ListControl.ListControl.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.ListControl.ListControlItem.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.ListControl.RatingBar.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.GroupBox.CollapsePanel.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.ProgressBar.VistaProgressBar.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmVistaProgressBar.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAccessToForum.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAccessToWebsite.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCertificates.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmExpenseAccount.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInventory.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInventoryBeginingBalance.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInventoryDefaults.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMemorizePurchase.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmReceiveInventory.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmComposeMail.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmDraft.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmImportant.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInbox.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLocalMail.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmSentMail.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmTrash.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCourseSubjects.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmExamination.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.FormConstants.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.FormConversions.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmExaminationFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmEnrollAdmin.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmEnrollStaff.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmEnrollSuperAdmin.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmEnrollTeacher.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmManageStudent.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLateFine.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmOtherCharges.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmReturnBooks.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.CYMessageBox.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.CYMessageBox1.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFRateOfInterest.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPFViewIndivisualStatus.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.DropDownContainer.DDContainer.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.frmeCreativeLogo.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.application
+D:\JOB\e-Creative\Umbrella\bin\Debug\Elegant.Ui.Common.DLL
+D:\JOB\e-Creative\Umbrella\bin\Debug\Elegant.Ui.Common.xml
+D:\JOB\e-Creative\Umbrella\bin\Debug\office.dll
+D:\JOB\e-Creative\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JOB\e-Creative\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\JOB\e-Creative\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\JOB\e-Creative\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\JOB\e-Creative\Umbrella\bin\Debug\office.xml
+D:\JOB\e-Creative\Backup\Umbrella\6-4-2014\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\e-Creative\Backup\Umbrella\6-4-2014\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\e-Creative\Backup\Umbrella\6-4-2014\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\e-Creative\Backup\Umbrella\6-4-2014\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.eCreative.Controls.PictureBox.ProfilePic.resources
+D:\JOB\e-Creative\Umbrella\obj\Debug\Umbrella.TextBoxValid.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.dlgCorners.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.DropdownColorBlender.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmVistaProgressBar.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCertificates.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmExpenseAccount.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInventory.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInventoryBeginingBalance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInventoryDefaults.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmReceiveInventory.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmComposeMail.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmDraft.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmImportant.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInbox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLocalMail.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmSentMail.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmTrash.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCourseSubjects.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmExamination.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.FormConstants.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.FormConversions.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmExaminationFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLateFine.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmOtherCharges.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmReturnBooks.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.CYMessageBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.CYMessageBox1.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPFViewIndivisualStatus.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmeCreativeLogo.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\office.dll
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\office.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.application
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\7-4-2014\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\7-4-2014\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\7-4-2014\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\7-4-2014\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmImportExport.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmFinancialAttach.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\23-4-2014\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\23-4-2014\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\23-4-2014\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\e-Creative\Backup\VB.Net 2008\Umbrella\23-4-2014\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseButton.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.eDropdownColorBlender.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.DropDownContainer.eDropDownContainer.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.ComboBox.eComboBoxIcon.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseGroupBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eGroupBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eListControl.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eListControlItem.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eRatingBar.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapsePanel.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.PictureBox.ePictureBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.PictureBox.eProfilePic.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.ProgressBar.eVistaProgressBar.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.Appearance.frmAppearanceEditor.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.TextBox.eRichTextBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.UIControls.TextBox.eTextBox.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmClient.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+D:\JOB\e-Creative\VB.Net 2008\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCertificates.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmExpenseAccount.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInventory.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInventoryBeginingBalance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInventoryDefaults.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmReceiveInventory.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmComposeMail.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmDraft.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmImportant.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInbox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLocalMail.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmSentMail.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmTrash.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCourseSubjects.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmExamination.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.FormConstants.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.FormConversions.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmExaminationFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLateFine.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmOtherCharges.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmReturnBooks.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.CYMessageBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.CYMessageBox1.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPFViewIndivisualStatus.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmClient.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmFinancialAttach.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmImportExport.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmeCreativeLogo.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.dlgCorners.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseButton.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.eDropdownColorBlender.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.DropDownContainer.eDropDownContainer.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.ComboBox.eComboBoxIcon.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapseGroupBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eGroupBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.DropdownColorBlender.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eListControl.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eListControlItem.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.ListControl.eRatingBar.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.GroupBox.eCollapsePanel.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.PictureBox.ePictureBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.PictureBox.eProfilePic.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.ProgressBar.eVistaProgressBar.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmVistaProgressBar.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.Appearance.frmAppearanceEditor.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.TextBox.eRichTextBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.UIControls.TextBox.eTextBox.resources
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\Live Projects\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\office.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\JOB\Live Projects\Umbrella\bin\Debug\office.xml
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\JOB\Live Projects\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.application
+D:\JOB\Live Projects\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCertificates.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExpenseAccount.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventory.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryBeginingBalance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryDefaults.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmReceiveInventory.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmComposeMail.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDraft.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportant.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInbox.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLocalMail.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSentMail.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmTrash.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.FormConstants.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.FormConversions.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminationFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLateFine.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOtherCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmReturnBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFViewIndivisualStatus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmClient.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFinancialAttach.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExport.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmeCreativeLogo.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.application
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserSecurity.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmChangePassword.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMaintainUser.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentPreAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentRegistration.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminations.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditExaminations.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubjects.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSubjects.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSyllabus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditAssignment.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCourse.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMarksheets.resources
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\ESAR Controls.dll
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\ESAR Controls.pdb
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\ESAR Controls.xml
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmActivityDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAdmissionDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminationDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFeesDetails.resources

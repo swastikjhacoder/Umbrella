@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Umbrella
+</name>
+</assembly>
+<members>
+<member name="P:Umbrella.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Umbrella.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Umbrella.My.Resources.Resources.Tables">
+	<summary>
+  Looks up a localized string similar to USE [Umbrella];
+
+CREATE TABLE [dbo].[UserSecurity](
+	[insid] [varchar](250) NULL,
+	[insname] [varchar](250) NULL,
+	[period] [varchar](250) NULL,
+	[username] [varchar](250) NULL,
+	[password] [varchar](250) NULL
+) ON [PRIMARY];
+
+CREATE TABLE [dbo].[PayScale](
+	[InsID] [varchar](250) NULL,
+	[InsName] [varchar](250) NULL,
+	[Period] [varchar](250) NULL,
+	[pbname] [varchar](250) NULL,
+	[pblower] [float] NULL,
+	[pbupper] [float] NULL,
+	[pbgrade] [float] NULL,
+	[pbbasic] [float] NULL,
+	[payscale] [rest of string was truncated]";.
+</summary>
+</member><member name="T:Umbrella.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

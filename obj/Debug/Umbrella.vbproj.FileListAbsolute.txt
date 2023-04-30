@@ -1,0 +1,615 @@
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubjects.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminations.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmClient.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmActivityDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAdmissionDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentPreAdmission.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentRegistration.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCourse.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminationDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditAssignment.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditExaminations.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMarksheets.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSubjects.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSyllabus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFeesDetails.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmChangePassword.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserSecurity.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.application
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDiscount.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditFinancialLoan.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditBankDeposit.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamQsn.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamQsn.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLogin.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditGroup.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSubject.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditIssueBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmReturnBookss.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditReturnBooks.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCalculateCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCalculateCharges.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDepartments.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDesignation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPayScale.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditProfessionalTax.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditAdjustmentsDeductions.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayCalculationSpecific.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMembership.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPFAdvanceWithdrawal.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPFRate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmHiredEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditHiredEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmWorkingHours.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditProgressReport.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditInventoryItems.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryCount.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditGames.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPurchaseOrder.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSalesInvoice.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSalesInvoice.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSalesInvoiceNote.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNewUser.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNewAdministrator.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserControl.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserRight.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserRole.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCertificateStudent.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCertificateStudent.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCertificateEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEdit_CertificateEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditExamFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditLateFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMonthlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOtherFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditYearlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExamFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstituteStatus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearEndWizard.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAccountingPeriod.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmChangeSystemDate.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsLibrary.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.ResolveComReference.cache
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsPayroll.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPayEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\office.dll
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\office.xml
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLibraryStatus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayrollStatus.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportInstitute.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportLibrary.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportPayroll.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentInfo.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentMainForm.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLoginStudent.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamination.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamResult.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCheckUpdates.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCustomerSupport.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGlobalSettings.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIndustrySpecificSolution.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInternetConnection.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMidSizedBusiness.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmObsolescenceInformation.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProductComparison.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSynchronize.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmWebTransaction.resources
+D:\JOB\ESAR Infotech\Umbrella\bin\Debug\Interop.SHDocVw.dll
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Interop.SHDocVw.dll
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmESARInfotechLogo.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearEndClosed.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmRetiredEmployee.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmRetiredEmployeeList.resources
+D:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFindTransaction.resources
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.config
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Interop.SHDocVw.dll
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.ResolveComReference.cache
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.xml
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.pdb
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.manifest
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.application
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.pdb
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.xml
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\office.dll
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\office.xml
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\JOB\ESAR Infotech\Umbrella\bin\Debug\Interop.SHDocVw.dll
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCertificateStudent.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGames.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubjects.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminations.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCalculateCharges.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmReturnBookss.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.Resources.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmClient.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmActivityDetails.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCertificateEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInventoryCount.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSalesInvoice.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSalesInvoiceNote.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEdit_CertificateEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCertificateStudent.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditGames.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditInventoryItems.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPurchaseOrder.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSalesInvoice.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAdmissionDetails.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentInfo.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAdmission.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentPreAdmission.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentRegistration.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCourse.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExaminationDetails.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamQsn.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOnlineExamResult.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditAssignment.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditExaminations.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMarksheets.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamination.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamQsn.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditProgressReport.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSubjects.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSyllabus.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmExamFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFeesDetails.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditBankDeposit.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDiscount.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditExamFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditFinancialLoan.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditLateFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMonthlyFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditOtherFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditYearlyFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmRetiredEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmRetiredEmployeeList.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCheckUpdates.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCustomerSupport.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmGlobalSettings.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmIndustrySpecificSolution.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInternetConnection.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmMidSizedBusiness.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmObsolescenceInformation.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmProductComparison.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSynchronize.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmFindTransaction.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmWebTransaction.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmStudentMainForm.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmHiredEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditHiredEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCharges.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditGroup.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditSubject.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditCalculateCharges.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditIssueBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditReturnBooks.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmAccountingPeriod.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmChangeSystemDate.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportLibrary.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmImportExportPayroll.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmInstituteStatus.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLibraryStatus.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmESARInfotechLogo.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLogin.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmLoginStudent.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayrollStatus.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsInstitute.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsLibrary.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsPayroll.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearEndClosed.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmYearEndWizard.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayCalculationSpecific.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmPayEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditAdjustmentsDeductions.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPayEmployee.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmWorkingHours.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditMembership.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPFAdvanceWithdrawal.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPFRate.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDepartments.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditDesignation.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditPayScale.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmViewEditProfessionalTax.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserRole.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmChangePassword.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNewAdministrator.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmNewUser.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserControl.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserRight.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.frmUserSecurity.resources
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe.manifest
+G:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.application
+F:\JOB\ESAR Infotech\Umbrella\bin\Debug\Umbrella.exe.config
+F:\JOB\ESAR Infotech\Umbrella\obj\Debug\Interop.SHDocVw.dll
+F:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.vbproj.ResolveComReference.cache
+F:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.exe
+F:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.xml
+F:\JOB\ESAR Infotech\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.exe.config
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Interop.SHDocVw.dll
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.vbproj.ResolveComReference.cache
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\ResolveAssemblyReference.cache
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCurrentLocation.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInstitutionCreated.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmProcessingInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAlumni.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmBirthday.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCertificateStudent.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmGames.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAddInventoryItem.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInventoryPriceLevel.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmItemNote.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPurchase.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPurchaseNote.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentAdmission.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentPreAdmission.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentRegistration.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAssignments.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSubjects.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmExaminations.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmProgressReport.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSyllabus.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAccountingManagement.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmDiscount.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmFinancial.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmIncomeExpenditure.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmTermOfFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmEnrollEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInstitutionDetails.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmNotices.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStaffAttendance.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentAttendance.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentControlPanel.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSubmitIDCard.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCharges.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmGroup.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSubject.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmIssueBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCalculateCharges.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmQueryBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmReturnBookss.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInstitutionMainForm.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLibraryMainForm.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMainForm.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMainSelect.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMainTask.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOpenInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayrollMainForm.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOpeningInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmADDEmployeeDetailsAdjust_Deduc_for_a_Month.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayCalculationThisMonth.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFRate.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFAddOpeningOutsourcingBalance.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFAdvanceWithdrawal.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFDefinePartInterest.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFModifyPFRate.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFOpeningClosingBalanace.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPFSubscriptionAdvanceRecovery.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmDA_HRA.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmDepartments.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmDesignation.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayScale.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayslipHeaders.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmProfessionalTax.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.Resources.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmClient.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmConnectIP.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmActivityDetails.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCertificateEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInventoryCount.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSalesInvoice.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSalesInvoiceNote.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEdit_CertificateEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditCertificateStudent.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditGames.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditInventoryItems.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditPurchaseOrder.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditSalesInvoice.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAdmissionDetails.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentInfo.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAdmission.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStudentPreAdmission.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStudentRegistration.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCourse.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmExaminationDetails.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMarksheets.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOnlineExamination.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOnlineExamQsn.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOnlineExamResult.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditAssignment.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditExaminations.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditMarksheets.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamination.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditOnlineExamQsn.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditProgressReport.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditSubjects.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditSyllabus.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCalculator.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmExamFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmFeesDetails.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLateFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMonthlyFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmOtherFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditBankDeposit.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditDiscount.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditExamFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditFinancialLoan.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditLateFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditMonthlyFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditOtherFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditYearlyFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmYearlyFees.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmRetiredEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmRetiredEmployeeList.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCheckUpdates.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCustomerSupport.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmGlobalSettings.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmIndustrySpecificSolution.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInternetConnection.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmMidSizedBusiness.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmObsolescenceInformation.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmProductComparison.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSynchronize.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmFindTransaction.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmWebTransaction.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmStudentMainForm.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmBackupRestore.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmHiredEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmImportExportInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmCreateInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditHiredEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditIDCard.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditNotices.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStaffAttendance.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStudentAttendance.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditStudentControl.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditCharges.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditGroup.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditSubject.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditCalculateCharges.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditIssueBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditReturnBooks.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmAccountingPeriod.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmChangeSystemDate.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmImportExportLibrary.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmImportExportPayroll.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmInstituteStatus.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLibraryStatus.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLockLogin.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLockScreen.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmESARInfotechLogo.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLogin.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmLoginStudent.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayrollStatus.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsInstitute.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsLibrary.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmSetupDefaultsPayroll.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmYearEndClosed.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmYearEndWizard.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayCalculationSpecific.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmPayEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditAdjustmentsDeductions.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditPayEmployee.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmWorkingHours.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditMembership.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditPFAdvanceWithdrawal.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditPFRate.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditDepartments.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditDesignation.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditPayScale.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmViewEditProfessionalTax.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmUserRole.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmChangePassword.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmNewAdministrator.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmNewUser.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmUserControl.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmUserRight.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.frmUserSecurity.resources
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.vbproj.GenerateResource.Cache
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.application
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.exe
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.pdb
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Umbrella.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\System.Windows.Forms.DataVisualization.dll
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\office.dll
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\office.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\bin\Debug\Interop.SHDocVw.dll
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.exe.manifest
+D:\JOB\ESAR Infotech Pvt. Ltd\Software Development\Umbrella\obj\Debug\Umbrella.application
